@@ -1,0 +1,5 @@
+{
+  "name": "Hardware Inventory Manager",
+  "description": "A professional inventory management system for hardware stores tracking products, stock, suppliers, customers, and sales.",
+  "requestFramePermissions": []
+}
